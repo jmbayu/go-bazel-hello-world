@@ -15,7 +15,7 @@
 package main
 
 import (
-	"github.com/chrislovecnm/go-bazel-hello-world/pkg/cmd"
+	"github.com/jmbayu/go-bazel-hello-world/pkg/cmd"
 )
 
 func main() {
